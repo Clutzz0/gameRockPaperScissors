@@ -15,6 +15,7 @@ body {
 
 .move-button {
 	background-color: transparent;
+	color: inherit;
 	border: 3px solid white;
 	width: 120px;
 	height: 120px;
